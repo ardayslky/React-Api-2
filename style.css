@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(104, 214, 117);
+}
+h3 {
+  color: white;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.layoutmain h1 {
+  text-align: center;
+  margin: 30px 0px 10px 0px;
+  color: white;
+  font-size: 42px;
+}
+
+.layoutmain nav {
+  text-align: center;
+}
+
+.layoutmain ul {
+  margin: 0px;
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.layoutmain nav ul li {
+  margin: 10px;
+  background-color: black;
+  padding: 10px 15px;
+  border-radius: 15px;
+}
+
+.link1 {
+  text-decoration: none;
+  color: white;
+}
+.layoutmain nav ul li:hover {
+  background-color: rgb(90, 88, 88);
+}
